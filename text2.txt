@@ -1,0 +1,3 @@
+This is an example 
+Adding my first txt file
+now i will add this modifief file in second branch
